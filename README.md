@@ -1,3 +1,15 @@
+A normal paragraph
+
+Continue this line with nothing
+second line
+
+Continue this line with a backslash \
+second line
+
+Continue this line with 2 spaces  
+second line
+
+
 # ESP32 ESP-IDF MJD AM2320 meteo sensor component
 This is an ESP-IDF component for the ESP32 chip.
 
